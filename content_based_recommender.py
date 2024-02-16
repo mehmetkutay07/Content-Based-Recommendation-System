@@ -22,7 +22,7 @@ pd.set_option('display.expand_frame_repr', False)
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 # https://www.kaggle.com/rounakbanik/the-movies-dataset
-df = pd.read_csv("datasets/the_movies_dataset/movies_metadata.csv", low_memory=False)  # DtypeWarning kapamak icin
+df = pd.read_csv("movies_metadata.csv", low_memory=False)  # DtypeWarning kapamak icin
 df.head()
 df.shape
 
