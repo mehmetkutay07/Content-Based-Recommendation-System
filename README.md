@@ -9,3 +9,7 @@ Fakat kullanıcıların tarayıcıdaki izlerinden hangi filmleri izlediklerini b
 Veri Seti Hikayesi:
 movies_metadata.csv veri seti 45000 film ile ilgili temel bilgileri barındırmaktadır.
 “overview” değişkeni ile çalışılacaktır.
+
+
+Projede kullanılan veri setini aşağıdaki linkten indirebilirsiniz:
+https://www.kaggle.com/rounakbanik/the-movies-dataset
